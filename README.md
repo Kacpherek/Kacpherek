@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Kacpherek
-- 👀 I’m interested in milfs ...
-- 🌱 I’m currently learning Next.js MERN Graphql ...
-- 📫 How to reach me Please don't ...
-
+witam
 <!---
 Kacpherek/Kacpherek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
