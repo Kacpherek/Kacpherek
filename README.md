@@ -7,6 +7,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=kacpherek" height="150" alt="languages graph"  />
 </div>
 
+
+- 🌱 I’m currently learning Rust.  
+  
+
+- ⚡ Fun fact: I'm gay 🏳️‍🌈🏳️‍⚧️  
+  
+
+
 ###
 
 <img align="left" height="160" src="https://i.imgflip.com/65efzo.gif"  />
