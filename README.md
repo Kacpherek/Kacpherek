@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Kacpherek and I'm a full stack developer 🏳️‍🌈🏳️‍⚧️😵‍💫h2>
+<h2 align="left">Hi 👋! My name is Kacpherek and I'm a full stack developer 🏳️‍🌈🏳️‍⚧️😵‍💫</h2>
 
 ###
 
