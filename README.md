@@ -9,10 +9,7 @@
 
 
 - 🌱 I’m currently learning Rust.  
-  
-
-- ⚡ Fun fact: I'm gay 🏳️‍🌈🏳️‍⚧️  
-  
+    
 
 
 ###
